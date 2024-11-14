@@ -1,0 +1,32 @@
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>C</th>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>E</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>G</td>
+    <td>H</td>
+  </tr>
+</table>
+
+<p></p>
+
+</body>
+</html>
